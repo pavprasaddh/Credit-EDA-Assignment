@@ -12,4 +12,4 @@ To develop your understanding of the domain, you are advised to independently re
 
 'previous_application.csv' contains information about the client’s previous loan data. It contains the data on whether the previous application had been Approved, Cancelled, Refused or Unused offer.
 
--- This case study is part of UpGrad Curriculum
+-- This case study is part of upGrad Curriculum
